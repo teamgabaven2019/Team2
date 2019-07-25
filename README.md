@@ -1,3 +1,3 @@
 # Team2
 ## test
-二班大島・松村
+もし何かあればkazu.noah.625@gmail.comへ
