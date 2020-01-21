@@ -329,7 +329,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .gtco-cover .display-t,
 .gtco-cover .display-tc {
-  height: 900px;
+  height: 800px;
   display: table;
   width: 100%;
 }
@@ -1418,6 +1418,9 @@ form label {
 
 .row-pb-sm {
   padding-bottom: 2em !important;
+}
+.row-pb-my{
+  padding-bottom: 1em !important;
 }
 
 .gtco-loader {
