@@ -28,6 +28,20 @@ body {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
+.my{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #6091d3;/*文字色*/
+    background: #FFF;
+    border: solid 3px #17B794;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+.my p {
+
+    margin: 0; 
+    padding: 0;
+}
+
 .offcanvas #page {
   overflow: hidden;
   position: absolute;
