@@ -1,7 +1,7 @@
 ;(function () {
 	
 	'use strict';
-
+	
 	var mobileMenuOutsideClick = function() {
 
 		$(document).click(function (e) {
